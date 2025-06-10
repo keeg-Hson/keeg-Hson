@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keegan Hutchinson
 
-> 23 | NB 🇨🇦 | Freelance Fullstack Dev, Currently Self Teaching About Machine Learning Architechture and Blockchain Software Development 
+> Freelance Full-Stack Dev & Startup Enthusiast | Currently Exploring Advanced AI Architecture & Smart Contract Engineering
 
 I'm currently working on:
 - 🧰 Primary collaborator of a OBD2 diagnostic system with real-time analytics and in-built AI diagnostic functionality
