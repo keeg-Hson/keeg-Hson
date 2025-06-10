@@ -61,7 +61,7 @@ I'm currently working on:
 
 - 🔍 **OrphicaAI** – Memory-mapping and emotional resonance engine, mapping human conscience and coorelating ideas and thought processes (in the name of shadow work, of course :) ) 
 - ⚙️ **OBD2-AI** – Local vehicle diagnostics system w/ real-time feedback  
-- 🎓 **Python for AI Foundations** – Dev course in development for practical, thoughtful coders  
+- 🎓 **Python for AI Foundations** – Applied dev course in development for practical, thoughtful coders  
 
 ---
 
