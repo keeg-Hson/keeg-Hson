@@ -3,7 +3,7 @@
 > Freelance Full-Stack Dev & Startup Enthusiast | Currently Exploring Advanced AI Architecture & Smart Contract Engineering
 
 I'm currently working on:
-- 🧰 Primary collaborator of a OBD2 diagnostic system with real-time analytics and in-built AI diagnostic functionality
+- 🧰 Primary collaborator of an OBD2 diagnostic system with real-time analytics and in-built AI diagnostic functionality
 - 🧠 An experimental AI system/tool for mapping human cognitive processes computationally   
 - 📊 Reimagining financial infrastructure and pre existing blockchain standards with adaptive AI  
 - 🧪 A Python + AI dev course for beginners to builders
