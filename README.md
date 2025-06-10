@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm KJ Hutchinson
+# 👋 Hi, I'm Keegan Hutchinson
 
 > 23 | NB 🇨🇦 | Freelance Fullstack Dev, Currently Self Teaching About Machine Learning Archetechture and Blockchain Software Development 
 
