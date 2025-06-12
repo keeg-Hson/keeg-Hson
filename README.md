@@ -4,6 +4,7 @@
 
 I'm currently working on:
 - 🧰 Primary collaborator of an OBD2 diagnostic system with real-time analytics and in-built AI diagnostic functionality
+- - 📈 An AI day trading tool (and financial trader bot)
 - 🧠 An experimental AI system/tool for mapping human cognitive processes computationally   
 - 📊 Reimagining financial infrastructure and pre existing blockchain standards with adaptive AI  
 - 🧪 A Python + AI dev course for beginners to builders
