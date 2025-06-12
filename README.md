@@ -52,6 +52,16 @@ I'm currently working on:
   <!-- Hardware/Embedded -->
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/-ESP32-303030?style=flat&logo=espressif&logoColor=white" />
+
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+
+  <!-- .NET -->
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  
+  <!-- Cisco Networking (general badge; not officially branded) -->
+  <img src="https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+
 </p>
 
 
