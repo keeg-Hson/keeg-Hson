@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Keegan Hutchinson
 
-> Freelance Full-Stack Dev & Startup Enthusiast | Currently Exploring Advanced AI Architecture & Smart Contract Engineering
+> Freelance Full-Stack Dev & Startup Nerd | Currently Exploring Advanced AI Architecture 
 
 I'm currently working on:
-- 🧰 Primary collaborator of an OBD2 diagnostic system with real-time analytics and in-built AI diagnostic functionality
-- 📈 A machine learning financial portfolio tracker + subsequent SaaS
+
+- 📈 A machine learning financial portfolio tracker + proposed SaaS tool
+- - 🧰 Primary collaborator of an OBD2 diagnostic system with real-time analytics and in-built AI diagnostic functionality
+
 
 
 ---
@@ -14,7 +16,7 @@ I'm currently working on:
 - **AI & Machine Learning**: NLP, GPT APIs, vector search, symbolic modeling  
 - **Dev Tools**: Python, Git, Flask, Dash, VSCode  
 - **Embedded & Diagnostics**: OBD2, CAN bus basics, Arduino  
-- **Systems Thinking**: Architecture design, backend logic,
+- **Systems Thinking**: Architecture design, backend logic
 
 ---
 
