@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Keegan Hutchinson
 
-> Freelance Full-Stack Dev & Startup Nerd | Currently Exploring Advanced AI Architecture 
+> Freelance Full-Stack Dev | Specializing in Data Engineering, ML Engineer @ NeuroVest API 
 
 I'm currently working on:
 
 - 📈 A machine learning financial portfolio tracker + proposed SaaS tool
--  🧰 Primary collaborator of an OBD2 diagnostic system with real-time analytics and in-built AI diagnostic functionality
 
 
 
