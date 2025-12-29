@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keegan Hutchinson
 
-> Freelance Full-Stack Dev | Specializing in Data Engineering, ML @ NeuroVest API 
+> Contract Programmer Specializing in Data Engineering, ML @ NeuroVest API 
 
 I'm currently working on:
 
