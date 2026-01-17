@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Keegan Hutchinson
+#  Hi, I'm Keegan Hutchinson
 
 > Contract Programmer Specializing in Data Engineering, ML @ NeuroVest API 
 
 I'm currently working on:
 
-- 📈 NeuroVest API: A ML market forecasting API trained using a multi model ensemble system on over 126 features, including traditional KPIs and micro/macroeconomic data renditions. 
+-  NeuroVest API: A ML market forecasting API trained using a multi model ensemble system on over 126 features, including traditional KPIs and micro/macroeconomic data renditions. 
 
 ---
 
 
-- ## 🛠 Core Competencies
+- ##  Core Competencies
 - **AI & Machine Learning**: NLP, GPT APIs, vector search, ensemble learning (XGBoost/LightGBM/CatBoost), time series forecasting, hyperparameter optimization
 - **Financial Systems**: Multi-asset trading strategies, backtesting engines, portfolio optimization, risk management, market regime detection
 - **Backend Development**: Python, Flask, Dash, REST APIs, real-time data pipelines, database design, automated workflows
@@ -22,7 +22,7 @@ I'm currently working on:
 ---
 
 
-## 📦 Toolchain & Stack
+##  Toolchain & Stack
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
