@@ -1,6 +1,6 @@
 #  Hi, I'm Keegan Hutchinson
 
-> Contract Programmer Specializing in Data Engineering, ML @ NeuroVest API 
+> AppSec @ hollowbyte.io & Data Engineering Contractor 
 
 I'm currently working on:
 
